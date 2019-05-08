@@ -1,0 +1,17 @@
+.grab-pay:hover{
+    cursor: pointer;
+    background: url(https://assets.grab.com/wp-content/uploads/media/GrabPayVn-LogoGPM-green.png) no-repeat;
+    background-size: 100px auto;
+    background-color: transparent;
+}
+.img-hero{
+    background-image: url(https://assets.grab.com/wp-content/uploads/sites/11/2018/10/15123832/grab_safety_headerimage.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: inherit;
+    margin: 0 auto;
+}
+.btn{
+    margin: 50px;
+}
